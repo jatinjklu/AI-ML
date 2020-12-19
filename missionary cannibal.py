@@ -66,5 +66,5 @@ m = 0
 c = 0
 zy= [M,C,m,c,"left"]
 if (dfs(M, C, 0, 0)== False):
-    print("Can not find the solution.")
+    print("can't find solution")
 
